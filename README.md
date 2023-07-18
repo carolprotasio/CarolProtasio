@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hello, World! Welcome to my Github profile
 
 <p>😄 My name is Carol Protásio</p>
-<p>🌵 Brazilian from the northeast</p>
+<p>🌵 I am Brazilian from the northeast</p>
 <p>✨ I have a degree in Business Administration</p>
 <p>🌱 I'm currently studying web development at <a href="https://www.laboratoria.la/br" target="_blank">Laboratória < L ></a>' Bootcamp</p>
-<p>📚 I am improving my skills with: </p> 
+<p>📚 And improving my skills with: </p> 
 
 <div style="display: inline_block"><br>
    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
