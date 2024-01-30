@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hello, World! Welcome to my Github profile
 
-<p>😄 My name is Carol Protásio</p>
-<p>🌵 I am Brazilian from the northeast</p>
-<p>✨ I have a degree in Business Administration</p>
-<p>🌱 I'm currently studying web development at <a href="https://www.laboratoria.la/br" target="_blank">Laboratória < L ></a>' Bootcamp</p>
-<p>📚 And improving my skills with: </p> 
+<p>😄 Hi, I'm Carol Protásio</p>
+<p>🌵 I hail from the beautiful northeast region of Brazil</p>
+<p>✨ I hold a degree in Business Administration</p>
+<p>🌱 Currently, I've completed the web development bootcamp at <a href="https://www.laboratoria.la/br" target="_blank">Laboratória < L ></a> and am now diving into studying software testing and quality as a QA Analyst</p> 
+<p>📚 Continuously enhancing my skills with:</p>
 
 <div style="display: inline_block"><br>
    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
